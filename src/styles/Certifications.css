@@ -70,6 +70,19 @@ height: 100vh;
     width: 52vw;
   }
   .pre-list {
+    font-size: 18px;
+  }
+  .cert-items {
+    font-size: 22px;
+    }
+}
+
+@media screen and (min-width:1400px){
+  .certs-container {
+    margin-top: 8vh;
+    width: 52vw;
+  }
+  .pre-list {
     font-size: 19px;
   }
   .cert-items {
