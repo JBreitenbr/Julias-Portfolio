@@ -5,7 +5,7 @@ const listItems =certs.map(
 (item) => {
 return (
   <div key={item.id}>
-       <p className="dim-margin"><a href={item.url} className="cert-items">{item.desc}</a>
+       <p className="dim-margin"><a href={item.url} className="cert-items" target="_blank">{item.desc}</a>
        </p>
   </div>
       )});
