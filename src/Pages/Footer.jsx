@@ -5,7 +5,7 @@ export const Footer=() => {
   return (
     <div className="footer">
       <p className="footer-size"> 
-    <a href="https://www.github.com/JBreitenbr" >
+    <a href="https://www.github.com/JBreitenbr" target="_blank" >
   <i className="fa fa-github"></i></a>&nbsp;&nbsp;&nbsp;
       <a href="mailto:julia.breitenbruch@gmail.com">
     <i className="fa fa-envelope"></i></a>&nbsp;&nbsp;&nbsp;
