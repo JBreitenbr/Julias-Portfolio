@@ -8,7 +8,7 @@
 .footer{
   width: 100%;
   height: 50px;
-  position: fixed;
+  position: sticky;
   background-color: #f3f3f3;
   display: flex;
   justify-content: center;
