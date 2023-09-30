@@ -17,5 +17,12 @@
   color: #2e4580;
 }
 
-
-  
+@media screen and (min-width: 990px){
+  .footer {
+    position: fixed;
+    height: 70px;
+  }
+  .footer-size {
+    font-size: 24px;
+  }
+}  
