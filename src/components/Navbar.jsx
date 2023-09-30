@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom';
 import Giulietta from './assets/Giulietta.png';
 export const Navbar=() => {
   return ( 
-    <nav id="navbar" className="navbar navbar-expand-md navbar-light" style={{backgroundColor:"#f3f3f3"}}><Link to="/" className="navbar-brand" >
+    <nav id="navbar" className="navbar navbar-expand-sm navbar-light" style={{backgroundColor:"#f3f3f3"}}><Link to="/" className="navbar-brand" >
     <img className="jull-brand" src={Giulietta}/></Link><button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
   </button>
