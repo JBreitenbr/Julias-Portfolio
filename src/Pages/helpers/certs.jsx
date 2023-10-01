@@ -6,4 +6,4 @@ url:"https://www.freecodecamp.org/certification/fccbcd44a63-082a-4123-badf-9baf7
 {id:6,url:"https://www.freecodecamp.org/certification/fccbcd44a63-082a-4123-badf-9baf7375d0c6/data-analysis-with-python-v7",desc:"Data Analysis with Python"},
 {id:7,url:"https://www.freecodecamp.org/certification/fccbcd44a63-082a-4123-badf-9baf7375d0c6/scientific-computing-with-python-v7",desc:"Scientific Computing with Python"},
 {id:8, url:"https://www.freecodecamp.org/certification/fccbcd44a63-082a-4123-badf-9baf7375d0c6/machine-learning-with-python-v7",desc:"Machine Learning with Python"},
-{id:9,url:"https://www.freecodecamp.org/certification/fccbcd44a63-082a-4123-badf-9baf7375d0c6/back-end-development-and-apis",desc:"Back End Development and APIs"},{id:10,url:"https://www.google.com",desc:"Platzhalter Quality Control"},{id:11,url:"https://www.google.com",desc:"Platzhalter Information Security"}];
+{id:9,url:"https://www.freecodecamp.org/certification/fccbcd44a63-082a-4123-badf-9baf7375d0c6/back-end-development-and-apis",desc:"Back End Development and APIs"}];
